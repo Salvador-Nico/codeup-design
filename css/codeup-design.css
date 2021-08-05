@@ -24,3 +24,34 @@ h1 {
     font-weight: bolder;
     font-family: sans-serif;
 }
+
+
+#red{
+    background-color: #e6563b;
+
+
+}
+#orange{
+    background-color: #dea03d;
+}
+#green{
+    background-color: #7cb06c;
+}
+
+#blue {
+    background-color: #00aba9;
+}
+.circle{
+  border-radius: 75px 75px;
+    height :105px;
+    width : 105px;
+border: white solid;
+
+}
+.circle-text{
+    text-align: center;
+
+
+body{
+    background-color:black ;
+}
