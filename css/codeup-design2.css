@@ -31,29 +31,26 @@ h1, h2 {
     font-size: 27px;
 }
 
-#red{
-    background-color: #e6563b;
+#red-c {
+    background-color: #E6563B;
+}
+#orange-c {
+    background-color: #EB9D3A;
+}
+#green-c {
+    background-color: #7CB06C;
+}
+#blue-c {
+    background-color: #00ABA9;
+}
 
-
-}
-#orange{
-    background-color: #dea03d;
-}
-#green{
-    background-color: #7cb06c;
-}
-
-#blue {
-    background-color: #00aba9;
-}
-.circle{
-  border-radius: 75px 75px;
-    height :105px;
+.circle {
+    border-radius: 75px 75px;
+    height: 105px;
     width : 105px;
     border: white 6px solid;
 }
-.circle-text {
-    color: white;
-    font-weight: bold;
-}
 
+div > .circle {
+    font-family: 'Anton', sans-serif;
+}
