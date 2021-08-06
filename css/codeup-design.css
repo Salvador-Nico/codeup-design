@@ -27,6 +27,10 @@ h1, h2 {
     font-family: 'Anton', sans-serif;
 }
 
+.h2-FS {
+    font-size: 27px;
+}
+
 #red{
     background-color: #e6563b;
 
